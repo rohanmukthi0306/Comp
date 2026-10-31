@@ -1,0 +1,6 @@
+{
+  "name": "CampusHub — Intercollege Event Portal & FindIt",
+  "description": "CampusHub is an Apple-inspired mobile-first event management web application featuring FindIt, a dedicated smart lost & found ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
